@@ -6,7 +6,6 @@ from dataclasses import dataclass
 class TgBot:
     token: str
     admin_id: int
-    email: str
     sheet_name: str
     json: str
 
@@ -25,7 +24,6 @@ def load_config(path: str):
         tg_bot=TgBot(
             token=tg_bot["token"],
             admin_id=int(tg_bot["admin_id"]),
-            email=tg_bot["email"],
             sheet_name=tg_bot["sheet_name"],
             json=tg_bot["json"]
         )
