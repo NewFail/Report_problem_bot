@@ -7,6 +7,7 @@
 
 
  To start the bot, you need to run the file ...\Report_problem_bot\dist\run_bot.exe .*
+ 
  An internet connection is required for the bot to work
 
 
