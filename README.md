@@ -34,4 +34,4 @@
 
 Warning! To enter data about problems in the table, you need to create a service account and give him the opportunity to edit the table. You can find out more here: https://www.youtube.com/watch?v=aruInGd-m40 (section "Enable application and upload credentials")
 
- * - for the computer that is the server.
+\* - for the computer that is the server.
