@@ -3,7 +3,7 @@
  The bot sends user requests to the bot administrator, and saves them to the Google table.
 
 
- The bot token, the id of the bot administrator, the email that is given access to the Google table, the name of the Google table where the requests are saved, the path to the json file are in the file: ...\Report_problem_bot\dist\config\bot.ini
+ The bot token, the id of the bot administrator, the name of the Google table where the requests are saved, the path to the json file are in the file: ...\Report_problem_bot\dist\config\bot.ini
 
 
  To start the bot, you need to run the file ...\Report_problem_bot\dist\run_bot.exe .*
